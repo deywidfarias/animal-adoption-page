@@ -6,7 +6,7 @@ Você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 ## Executando o projeto
 
 ### Baixe um zip ou clone o repositório
-$ git clone <[animal-adoption-page](https://github.com/deywidfarias/animal-adoption-page.git)>
+$ git clone [https://github.com/deywidfarias/animal-adoption-page.git](https://github.com/deywidfarias/animal-adoption-page.git)
 
 ### Acesse a pasta do projeto no terminal/cmd
 $ cd animal-adoption-page
